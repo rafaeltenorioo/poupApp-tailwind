@@ -2,7 +2,7 @@
 
 ## 🚀 Uma Visão Rápida
 
-O **PoupApp** é um projeto que simula um dashboard de finanças pessoais, criado durante a carreira **Front-end com React da Alura** (com o Prof. Vinicius Neves (@viniciosneves), um grande guia!).
+O **PoupApp** é um projeto que simula um dashboard de finanças pessoais, criado durante a carreira **Front-end com React da Alura** (com o Prof. Vinicios Neves (@viniciosneves), um grande guia!).
 
 **O Foco Principal?** Dominar e praticar **Tailwind CSS**. A ideia foi construir uma interface 100% responsiva e moderna, provando que é possível estilizar um projeto complexo usando apenas classes de utilidade.
 
